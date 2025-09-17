@@ -13,19 +13,19 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "SOP Yay",
+  title: "FlowStep",
   description: "SOP Builder",
   icons:{
     icon: [
       {
         media: "(prefers-color-scheme: light)",
-        url: "/logo.svg",
-        href: "/logo.svg",
+        url: "/logo-light.ico",
+        href: "/logo-light.ico",
       },
       {
         media: "(prefers-color-scheme: dark)",
-        url: "/logo.svg",
-        href: "/logo.svg",
+        url: "/logo-dark.ico",
+        href: "/logo-dark.ico",
       }
     ]
   }
